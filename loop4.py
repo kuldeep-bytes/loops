@@ -10,4 +10,3 @@ if temp == rev:
     print("Palindrome number.")
 else:
     print("Not palindrome.")
-
